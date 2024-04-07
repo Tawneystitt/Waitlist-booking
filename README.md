@@ -1,7 +1,7 @@
 <h1>Booking and waitlist site for nonprofit</h1>
 
 <h2>Description</h2>
-This is a booking and waitlist created for a non profit in CIS 420
+This is a booking and waitlist created as a group effort for a non profit in CIS 420
 <br />
 Link to site:
 https://kidscenterwaitlist.wixsite.com/kidscenterbook
